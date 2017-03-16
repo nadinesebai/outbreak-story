@@ -1,4 +1,4 @@
-# [OUTBREAK: A Doctor's Visit Like No Other]
+# OUTBREAK: A Doctor's Visit Like No Other
 
 
 When Jill Watson was diagnosed with a rare form of breast cancer, she trusted her local oncologist to care for her. 
