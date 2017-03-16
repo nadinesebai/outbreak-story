@@ -1,26 +1,23 @@
-# [Start Bootstrap](http://startbootstrap.com/) - [Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/)
+# [OUTBREAK: A Doctor's Visit Like No Other]
 
-[Scrolling Nav](http://startbootstrap.com/template-overviews/scrolling-nav/) is an unstyled one page starter template with a collapsing, smooth scrolling navigation bar for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-## Getting Started
+When Jill Watson was diagnosed with a rare form of breast cancer, she trusted her local oncologist to care for her. 
+But during Jill's first chemotherapy session, she noticed something that would change her life. And the lives of 99 others. 
 
-To use this template, choose one of the following options to get started:
-* Download the latest release on Start Bootstrap
-* Fork this repository on GitHub
+This is Jill's story.
 
-## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-scrolling-nav/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/scrolling-nav/).
+## Background
+
+When Jill Watson was diagnosed with a rare form of breast cancer, she trusted her local oncologist to care for her. 
+But during Jill's first chemotherapy session, she noticed something that would change her life. And the lives of 99 others. 
+
+This is Jill's story.
 
 ## Creator
 
-Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
+OUTBREAK: A Doctor's Visit Like No Other **Nadine Sebai**, Associate Producer & Researcher at [AJ+](http://www.nadinesebai.com/).
 
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+* https://twitter.com/NadineSebai
+* https://github.com/nadinesebai
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-scrolling-nav/blob/gh-pages/LICENSE) license.
